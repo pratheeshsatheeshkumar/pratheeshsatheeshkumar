@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pratheesh Satheesh Kuamr</h1>
-<h3 align="center">A passionate DevOps engineer from India</h3>
+<h1 align="center">Hi 👋, I'm Pratheesh Satheesh Kuamar</h1>
+<h3 align="center">In love with Automation.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
