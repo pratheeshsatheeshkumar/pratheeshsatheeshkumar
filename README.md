@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratheesh Satheesh Kumar</h1>
+<h1 align="center"> I'm Pratheesh Satheesh Kumar</h1>
 <h3 align="center">In love with Automation.</h3>
 
 <h3 align="left">Connect with me:</h3>
