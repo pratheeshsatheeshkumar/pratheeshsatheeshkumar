@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Pratheesh Satheesh Kuamar</h1>
+<h1 align="center">Hi 👋, I'm Pratheesh Satheesh Kumar</h1>
 <h3 align="center">In love with Automation.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pratheesh-satheesh-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratheesh-satheesh-kumar" height="30" width="40" /></a>
+</p>
+<h3 align="left">Read my articles:</h3>
+<p align="left">
+  <a href="https://medium.com/@yespratheesh" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-1024.png" alt="pratheesh-satheesh-kumar" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
