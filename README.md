@@ -5,9 +5,12 @@
 <p align="left">
 <a href="https://linkedin.com/in/pratheesh-satheesh-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratheesh-satheesh-kumar" height="30" width="40" /></a>
 </p>
-<h3 align="left">Read my articles:</h3>
-<p align="left">
-  <a href="https://medium.com/@yespratheesh" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-1024.png" alt="pratheesh-satheesh-kumar" height="30" width="40" /></a>
+[Pratheesh Satheesh Kumar](https://www.linkedin.com/in/pratheesh-satheesh-kumar/)
+
+**Read my article in medium.com.**
+
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yespratheesh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yespratheesh/0" alt="Recent Article 0">
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yespratheesh/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yespratheesh/1" alt="Recent Article 1">
 
 </p>
 
