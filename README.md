@@ -7,7 +7,8 @@
 </p>
 
 
-**Read my article in medium.com.**
+**Read my articles in medium.com.**
+
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yespratheesh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yespratheesh/2">
 
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yespratheesh/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yespratheesh/1">
